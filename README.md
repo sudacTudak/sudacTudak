@@ -41,6 +41,16 @@
   - JavaScript
   - ReactJS
  
+- ## RestCountries: Справочник по странам мира
+  ### Ссылки:
+  - [GitHub Repo](https://github.com/sudacTudak/rest-countries-rtk-typescript)
+  - [Website](https://sudac-tudak-rest-countries.netlify.app)
+  ### Технологии:
+  - TypeScript
+  - ReactJS
+  - ReduxToolKit
+  - Styled components
+ 
  
 
 <!--
